@@ -1,2 +1,4 @@
 # Crabgame-Hacks-V2
-Crabcheats
+* Run crabgame
+* Launch V2 exe
+* Enjoy!
